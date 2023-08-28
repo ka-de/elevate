@@ -6,4 +6,5 @@ setup(
     description='A utility for elevating Python scripts on Windows',
     author='Balazs Horvath',
     packages=find_packages(),
+    scripts=['elevate.py'],
 )
